@@ -76,7 +76,7 @@ _G.KEY = "f" -- the key is f to use when u see the green dot means it lock on to
 				L_81_.Anchored = true
 				L_81_.CanCollide = false
 				L_81_.Size = Vector3.new(0.1, 0.1, 0.1)
-				L_81_.Transparency = 0.1
+				L_81_.Transparency = 0.5
 				makemarker(L_81_, L_81_, Color3.fromRGB(0, 180, 0), 0.20, 0)
 			end
 		)
