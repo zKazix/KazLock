@@ -1,4 +1,4 @@
-_G.KEY = "f" -- the key is f to use when u see the green dot means it lock on to them!
+_G.KEY = "e" -- the key is f to use when u see the green dot means it lock on to them!
 		_G.PART = "HumanoidRootPart"
 		_G.PRED = 0.057
 		_G.Frame = Vector3.new(0, 0.53, 0)
